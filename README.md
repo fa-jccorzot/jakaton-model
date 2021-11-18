@@ -13,5 +13,6 @@ Files:
 
 `full-model.ipynb` running this file you will see full optimized version of model
 
-r
+
+
 NOTE: CSV with dataset needs to be in same folder with name `combined.csv`
